@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  StaticTableDemo
+//  RecipePhoto
 //
-//  Created by Hai Nguyen on 2/25/16.
+//  Created by Hai Nguyen on 2/27/16.
 //  Copyright © 2016 Hai Nguyen. All rights reserved.
 //
 
@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
