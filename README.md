@@ -1,1 +1,1 @@
-# Demo Static Table projects
+# iOS example projects
